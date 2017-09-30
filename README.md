@@ -8,3 +8,5 @@ There are 3 main files: judge.py computer.py and player.py
 If you want to play with computer run player.py and follow the instructions 
 If you want to watch how Genetic Algorithm works run computer.py file and follow the instruction 
 The last file is auxiliary
+
+If there will be some polish words just let me know, i will fix it.
